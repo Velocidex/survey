@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/AlecAivazis/survey/v2"
-	"github.com/AlecAivazis/survey/v2/tests/util"
+	"github.com/Velocidex/survey"
+	TestUtil "github.com/Velocidex/survey/tests/util"
 )
 
 var answer = ""

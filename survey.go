@@ -6,8 +6,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/AlecAivazis/survey/v2/core"
-	"github.com/AlecAivazis/survey/v2/terminal"
+	"github.com/Velocidex/survey/core"
+	"github.com/Velocidex/survey/terminal"
 )
 
 // DefaultAskOptions is the default options on ask, using the OS stdio.
